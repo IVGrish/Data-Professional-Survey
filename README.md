@@ -20,4 +20,4 @@ This Power BI dashboard provides a visual breakdown of survey responses from dat
 + ##### Difficulty of Entering the Field
   * Donut chart showing self-reported difficulty levels.<br><br>
 
-**P.S.** This project was built with the help [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst).
+**P.S.** This project was built with the help of [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst).
